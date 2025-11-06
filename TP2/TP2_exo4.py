@@ -16,5 +16,5 @@ pain = pain * nbConvives / BASE
 print("Pour faire une fondue fribourgeoise pour {nbConvives} personnes, il vous faut :")
 print("{} gr de fromage".format(fromage))
 print("{} dl de eau".format(eau))
-print("{} gr de pain".format(pain))
 print("{} gousses d'ail".format(ail))
+print("{} gr de pain".format(pain))
